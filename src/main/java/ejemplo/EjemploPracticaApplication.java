@@ -18,6 +18,7 @@ public class EjemploPracticaApplication implements CommandLineRunner{
 		System.out.println("Probando comandos");
 		System.out.println("Comprobando los cambios");
 		System.out.println("Si funciono :D");
+		System.out.println("nueva linea");
 	}
 
 }
