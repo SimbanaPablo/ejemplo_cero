@@ -16,6 +16,7 @@ public class EjemploPracticaApplication implements CommandLineRunner{
 		// TODO Auto-generated method stub
 		System.out.println("Hola mundo");
 		System.out.println("Probando comandos");
+		System.out.println("Comprobando los cambios");
 	}
 
 }
