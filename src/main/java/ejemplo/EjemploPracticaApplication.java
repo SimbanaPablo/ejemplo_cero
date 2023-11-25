@@ -21,5 +21,6 @@ public class EjemploPracticaApplication implements CommandLineRunner{
 		System.out.println("nueva linea");
 		System.out.println("cambio desde una PC diferente");
 		System.out.println("Si funcinoa los cambios, hay que copiar el mismo codigo");
+		System.out.println("Cambio desde la PC original :D");
 	}
 }
