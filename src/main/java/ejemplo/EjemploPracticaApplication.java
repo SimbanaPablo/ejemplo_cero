@@ -15,6 +15,7 @@ public class EjemploPracticaApplication implements CommandLineRunner{
 	public void run(String... args) throws Exception {
 		// TODO Auto-generated method stub
 		System.out.println("Hola mundo");
+		System.out.println("cambio");
 	}
 
 }
